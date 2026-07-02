@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ashutosh321456/Leetcode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Ashutosh321456/Leetcode/tree/master/0038-count-and-say) |
+| [0520-detect-capital](https://github.com/Ashutosh321456/Leetcode/tree/master/0520-detect-capital) |
 ## Dynamic Programming
 |  |
 | ------- |
