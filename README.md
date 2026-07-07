@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ashutosh321456/Leetcode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Ashutosh321456/Leetcode/tree/master/0038-count-and-say) |
+| [0151-reverse-words-in-a-string](https://github.com/Ashutosh321456/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Ashutosh321456/Leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ashutosh321456/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0520-detect-capital](https://github.com/Ashutosh321456/Leetcode/tree/master/0520-detect-capital) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Ashutosh321456/Leetcode/tree/master/0027-remove-element) |
+| [0151-reverse-words-in-a-string](https://github.com/Ashutosh321456/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/Ashutosh321456/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Ashutosh321456/Leetcode/tree/master/0344-reverse-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ashutosh321456/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
