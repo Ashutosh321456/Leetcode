@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ashutosh321456/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Ashutosh321456/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ashutosh321456/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0455-assign-cookies](https://github.com/Ashutosh321456/Leetcode/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/Ashutosh321456/Leetcode/tree/master/0493-reverse-pairs) |
 | [0645-set-mismatch](https://github.com/Ashutosh321456/Leetcode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Ashutosh321456/Leetcode/tree/master/0704-binary-search) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Ashutosh321456/Leetcode/tree/master/0268-missing-number) |
+| [0455-assign-cookies](https://github.com/Ashutosh321456/Leetcode/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/Ashutosh321456/Leetcode/tree/master/0645-set-mismatch) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Ashutosh321456/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Two Pointers
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Ashutosh321456/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/Ashutosh321456/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Ashutosh321456/Leetcode/tree/master/0344-reverse-string) |
+| [0455-assign-cookies](https://github.com/Ashutosh321456/Leetcode/tree/master/0455-assign-cookies) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ashutosh321456/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2540-minimum-common-value](https://github.com/Ashutosh321456/Leetcode/tree/master/2540-minimum-common-value) |
 ## Simulation
@@ -134,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Ashutosh321456/Leetcode/tree/master/1025-divisor-game) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Ashutosh321456/Leetcode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
