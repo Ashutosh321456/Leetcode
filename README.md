@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Ashutosh321456/Leetcode/tree/master/0041-first-missing-positive) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Ashutosh321456/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/Ashutosh321456/Leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ashutosh321456/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ashutosh321456/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/Ashutosh321456/Leetcode/tree/master/0027-remove-element) |
 | [0151-reverse-words-in-a-string](https://github.com/Ashutosh321456/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Ashutosh321456/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0287-find-the-duplicate-number](https://github.com/Ashutosh321456/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Ashutosh321456/Leetcode/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/Ashutosh321456/Leetcode/tree/master/0455-assign-cookies) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Ashutosh321456/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Ashutosh321456/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Ashutosh321456/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
