@@ -15,7 +15,7 @@ class Solution {
             }
             else{
                 t.next=i;
-                t=t.next;
+                t=i;
                 i=i.next;
             }
         }
