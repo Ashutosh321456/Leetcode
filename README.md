@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Ashutosh321456/Leetcode/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/Ashutosh321456/Leetcode/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Ashutosh321456/Leetcode/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/Ashutosh321456/Leetcode/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Ashutosh321456/Leetcode/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/Ashutosh321456/Leetcode/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/Ashutosh321456/Leetcode/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/Ashutosh321456/Leetcode/tree/master/0645-set-mismatch) |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Ashutosh321456/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Ashutosh321456/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ashutosh321456/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Ashutosh321456/Leetcode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Ashutosh321456/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ashutosh321456/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0287-find-the-duplicate-number](https://github.com/Ashutosh321456/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -160,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Ashutosh321456/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Ashutosh321456/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ashutosh321456/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Ashutosh321456/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ashutosh321456/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Ashutosh321456/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Ashutosh321456/Leetcode/tree/master/0876-middle-of-the-linked-list) |
