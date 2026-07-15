@@ -9,20 +9,33 @@
  * }
  */
 class Solution {
+       public ListNode reverseList(ListNode head) {
+        if(head==null || head.next ==null) return head;
+        ListNode a = head.next;
+        head.next = null;
+        ListNode b = reverseList(a);
+        a.next = head;
+        return b;
+
+    }
     public boolean isPalindrome(ListNode head) {
-                ListNode temp = head;
-        ArrayList<Integer> arr = new ArrayList<>();
-        while(temp!=null){
-            arr.add(temp.val);
-            temp =temp.next;
+        ListNode slow=head;
+        ListNode fast = head;
+        while(fast.next!=null && fast.next.next!=null){
+            slow=slow.next;
+            fast=fast.next.next;
         }
-        int i=0,j=arr.size()-1;
-        while(i<=j){
-            int a = arr.get(i) ,b = arr.get(j);
-             if(a!=b) return false;
-             i++;
-             j--;
-            }
-            return true;
+        ListNode head2=slow.next;;
+        slow.next=null;
+        head2=reverseList(head2);
+
+        ListNode i=head;
+        ListNode j=head2;
+        while(j!=null){
+            if(i.val!=j.val) return false;
+            i=i.next;
+            j=j.next;
+        }
+        return true;
     }
 }
