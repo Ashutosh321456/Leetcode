@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Ashutosh321456/Leetcode/tree/master/0493-reverse-pairs) |
 | [0645-set-mismatch](https://github.com/Ashutosh321456/Leetcode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Ashutosh321456/Leetcode/tree/master/0704-binary-search) |
+| [0877-stone-game](https://github.com/Ashutosh321456/Leetcode/tree/master/0877-stone-game) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Ashutosh321456/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Ashutosh321456/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ashutosh321456/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ashutosh321456/Leetcode/tree/master/0022-generate-parentheses) |
+| [0877-stone-game](https://github.com/Ashutosh321456/Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Ashutosh321456/Leetcode/tree/master/1025-divisor-game) |
 ## Backtracking
 |  |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Ashutosh321456/Leetcode/tree/master/0268-missing-number) |
+| [0877-stone-game](https://github.com/Ashutosh321456/Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Ashutosh321456/Leetcode/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Ashutosh321456/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ashutosh321456/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/Ashutosh321456/Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Ashutosh321456/Leetcode/tree/master/1025-divisor-game) |
 ## Greedy
 |  |
