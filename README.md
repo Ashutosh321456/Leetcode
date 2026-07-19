@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0263-ugly-number](https://github.com/Ashutosh321456/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Ashutosh321456/Leetcode/tree/master/0268-missing-number) |
 | [0445-add-two-numbers-ii](https://github.com/Ashutosh321456/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0877-stone-game](https://github.com/Ashutosh321456/Leetcode/tree/master/0877-stone-game) |
