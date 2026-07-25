@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Ashutosh321456/Leetcode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Ashutosh321456/Leetcode/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/Ashutosh321456/Leetcode/tree/master/0041-first-missing-positive) |
 | [0268-missing-number](https://github.com/Ashutosh321456/Leetcode/tree/master/0268-missing-number) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Ashutosh321456/Leetcode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Ashutosh321456/Leetcode/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/Ashutosh321456/Leetcode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Ashutosh321456/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Ashutosh321456/Leetcode/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/Ashutosh321456/Leetcode/tree/master/0455-assign-cookies) |
 ## Linked List
 |  |
