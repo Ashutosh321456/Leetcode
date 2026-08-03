@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Ashutosh321456/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Ashutosh321456/Leetcode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Ashutosh321456/Leetcode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Ashutosh321456/Leetcode/tree/master/0058-length-of-last-word) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Ashutosh321456/Leetcode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Ashutosh321456/Leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Ashutosh321456/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Ashutosh321456/Leetcode/tree/master/0445-add-two-numbers-ii) |
@@ -240,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ashutosh321456/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Ashutosh321456/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
