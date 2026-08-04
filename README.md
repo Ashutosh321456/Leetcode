@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2348-number-of-zero-filled-subarrays](https://github.com/Ashutosh321456/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ashutosh321456/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/Ashutosh321456/Leetcode/tree/master/2540-minimum-common-value) |
+| [3731-find-missing-elements](https://github.com/Ashutosh321456/Leetcode/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ashutosh321456/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Ashutosh321456/Leetcode/tree/master/0645-set-mismatch) |
 | [2540-minimum-common-value](https://github.com/Ashutosh321456/Leetcode/tree/master/2540-minimum-common-value) |
+| [3731-find-missing-elements](https://github.com/Ashutosh321456/Leetcode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ashutosh321456/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Ashutosh321456/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ashutosh321456/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3731-find-missing-elements](https://github.com/Ashutosh321456/Leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
