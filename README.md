@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Ashutosh321456/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ashutosh321456/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Ashutosh321456/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Ashutosh321456/Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ashutosh321456/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Ashutosh321456/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ashutosh321456/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Ashutosh321456/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0503-next-greater-element-ii](https://github.com/Ashutosh321456/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Ashutosh321456/Leetcode/tree/master/0682-baseball-game) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Ashutosh321456/Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Ashutosh321456/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Ashutosh321456/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Heap (Priority Queue)
@@ -261,5 +263,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/Ashutosh321456/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Ashutosh321456/Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Ashutosh321456/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
