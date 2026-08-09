@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Ashutosh321456/Leetcode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Ashutosh321456/Leetcode/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/Ashutosh321456/Leetcode/tree/master/0041-first-missing-positive) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Ashutosh321456/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0268-missing-number](https://github.com/Ashutosh321456/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Ashutosh321456/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ashutosh321456/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ashutosh321456/Leetcode/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Ashutosh321456/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/Ashutosh321456/Leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Ashutosh321456/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Ashutosh321456/Leetcode/tree/master/0445-add-two-numbers-ii) |
@@ -262,7 +264,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Ashutosh321456/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/Ashutosh321456/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Ashutosh321456/Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Ashutosh321456/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Ashutosh321456/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
