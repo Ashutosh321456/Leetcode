@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ashutosh321456/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/Ashutosh321456/Leetcode/tree/master/2540-minimum-common-value) |
 | [3731-find-missing-elements](https://github.com/Ashutosh321456/Leetcode/tree/master/3731-find-missing-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Ashutosh321456/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ashutosh321456/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Ashutosh321456/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Ashutosh321456/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Ashutosh321456/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Bit Manipulation
 |  |
 | ------- |
