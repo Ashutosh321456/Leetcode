@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ashutosh321456/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Ashutosh321456/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Ashutosh321456/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
+| [3870-count-commas-in-range](https://github.com/Ashutosh321456/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ashutosh321456/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Bit Manipulation
 |  |
