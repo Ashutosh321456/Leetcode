@@ -5,20 +5,13 @@ class Solution {
         int min =nums[0];
         int max= nums[nums.length-1];
         
-        ArrayList<Integer>result=new ArrayList<>();
-        int i=0;
-    
-        while(min<max){
-            if(nums[i]==min){
-                i++;
-                min++;
-            }
-            if(nums[i]!=min){
-                result.add(min) ;
-            
-                min++;
-                
-            }
+        ArrayList<Integer> result = new ArrayList<>();
+        HashSet<Integer> set = new HashSet<>();
+        for(int ele : nums){
+            set.add(ele);
+        }
+        for(int i = nums[0] ; i<=nums[nums.length-1] ; i++){
+            if(!set.contains(i)) result.add(i);
         }
         return result;
     }
