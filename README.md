@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Ashutosh321456/Leetcode/tree/master/0877-stone-game) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Ashutosh321456/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ashutosh321456/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Ashutosh321456/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Ashutosh321456/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Ashutosh321456/Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ashutosh321456/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Ashutosh321456/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0520-detect-capital](https://github.com/Ashutosh321456/Leetcode/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/Ashutosh321456/Leetcode/tree/master/0796-rotate-string) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Ashutosh321456/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Ashutosh321456/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2390-removing-stars-from-a-string](https://github.com/Ashutosh321456/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Ashutosh321456/Leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ashutosh321456/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Ashutosh321456/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0645-set-mismatch](https://github.com/Ashutosh321456/Leetcode/tree/master/0645-set-mismatch) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Ashutosh321456/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Ashutosh321456/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2540-minimum-common-value](https://github.com/Ashutosh321456/Leetcode/tree/master/2540-minimum-common-value) |
 | [3731-find-missing-elements](https://github.com/Ashutosh321456/Leetcode/tree/master/3731-find-missing-elements) |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Ashutosh321456/Leetcode/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/Ashutosh321456/Leetcode/tree/master/0645-set-mismatch) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ashutosh321456/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Ashutosh321456/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Sorting
 |  |
 | ------- |
@@ -201,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Ashutosh321456/Leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ashutosh321456/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Ashutosh321456/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ashutosh321456/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## String Matching
 |  |
