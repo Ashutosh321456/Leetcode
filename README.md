@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2506-count-pairs-of-similar-strings](https://github.com/Ashutosh321456/Leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ashutosh321456/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/Ashutosh321456/Leetcode/tree/master/2540-minimum-common-value) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Ashutosh321456/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3731-find-missing-elements](https://github.com/Ashutosh321456/Leetcode/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ashutosh321456/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/Ashutosh321456/Leetcode/tree/master/3903-smallest-stable-index-i) |
@@ -497,4 +498,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ashutosh321456/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Ashutosh321456/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
